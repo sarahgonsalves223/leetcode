@@ -10,3 +10,4 @@ LeetCode
 | 285 | Inorder Successor in BST | https://leetcode.com/problems/inorder-successor-in-bst/description/ | Medium |
 | 207 | Course Schedule | https://leetcode.com/problems/course-schedule/description/ | Medium |
 | 210 | Course Schedule II | https://leetcode.com/problems/course-schedule-ii/description/ | Medium |
+| 236 | Least Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/ | Medium | 
